@@ -87,7 +87,7 @@ Welcome to the **Core Concepts** master collection containing **200 comprehensiv
 
 ### **25. What is SRE (Site Reliability Engineering)?**
 **Answer:** A discipline pioneered by Google applying software engineering principles to operations and infrastructure problems to maximize system reliability and availability.
-
+--completed till here 
 ### **26. What is an Internal Developer Platform (IDP)?**
 **Answer:** A self-service portal (e.g., Backstage) providing "Golden Paths" that automate infrastructure provisioning, CI/CD, and compliance to reduce developer cognitive load.
 
