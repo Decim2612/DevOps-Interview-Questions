@@ -52,7 +52,7 @@ Welcome to the **Cloud Computing & Architecture** master collection containing *
 
 ### **10. What is AWS Transit Gateway (TGW)?**
 **Answer:** A centralized hub-and-spoke cloud router connecting hundreds of VPCs, AWS Direct Connect links, and IPsec VPNs through a single managed gateway, supporting transitive routing and centralized network inspection.
-
+--completed till here 
 ### **11. What is AWS PrivateLink (Interface VPC Endpoint)?**
 **Answer:** Enables private connectivity between VPCs, supported AWS services, and third-party SaaS applications using Elastic Network Interfaces (ENIs) with private IP addresses in your subnet, keeping traffic completely off the public internet.
 
