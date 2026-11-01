@@ -70,7 +70,7 @@ Welcome to the **Cloud Computing & Architecture** master collection containing *
 - **EBS:** Block storage volumes formatted with filesystems (ext4, XFS) attached to a single EC2 instance (low latency, high IOPS).
 - **S3:** Scalable object storage (binary payload + key + metadata) accessed via HTTP REST APIs with $99.999999999\%$ (11 9's) durability.
 - **EFS:** Fully managed POSIX-compliant Network File System (NFS) mountable concurrently across hundreds of compute instances (`ReadWriteMany`).
-
+---completed till here
 ### **15. What are EBS Volume Types (gp3, io2 Block Express, st1, sc1)?**
 **Answer:**
 - **`gp3` (General Purpose SSD):** Baseline 3,000 IOPS and 125 MB/s throughput; independently provision IOPS and throughput without sizing volume size.
