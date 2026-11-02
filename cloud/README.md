@@ -113,7 +113,7 @@ Welcome to the **Cloud Computing & Architecture** master collection containing *
 
 ### **25. What is AWS Lambda Cold Start and how is it mitigated?**
 **Answer:** The initialization latency when Lambda downloads the container image, provisions a microVM, and initializes runtime engines. Mitigated using **Provisioned Concurrency** (pre-warmed microVMs) or **Lambda SnapStart** (resuming from microVM memory snapshots).
-
+--completed till here
 ### **26. What is Amazon Aurora?**
 **Answer:** A cloud-native relational database engine compatible with PostgreSQL and MySQL. It decouples compute from storage, utilizing a distributed shared storage volume replicated **6-way across 3 AZs** with quorum writes ($4/6$) and reads ($3/6$).
 
